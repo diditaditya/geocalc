@@ -1,0 +1,18 @@
+SOIL LAYERS
+id=1
+name=qwe
+top_elev=0.0
+bottom_elev=-3.0
+sat_unit_weight=19.0
+moist_unit_weight=17.0
+-----
+id=2
+name=asd
+top_elev=-3.0
+bottom_elev=-5.0
+sat_unit_weight=20.0
+moist_unit_weight=17.0
+-----
+GROUND WATER
+elev=1.0
+unit_weight=10
